@@ -1,1 +1,1 @@
-# dentalconsultorio
+# Software para consultorio dental
